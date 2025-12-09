@@ -1,7 +1,3 @@
-
-### 💻 Developer Profile
-
-
 const student = {
     name: "[Your Name]",
     year: 3,
