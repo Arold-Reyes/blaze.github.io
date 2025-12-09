@@ -1,17 +1,4 @@
-const student = {
-    name: "[Your Name]",
-    year: 3,
-    major: "IT",
-    hardWorker: true,
-    skills: ["HTML", "CSS", "JS", "Database"],
-    challenge: function() {
-        return "Turning coffee into code.";
-    }
-};
-
-console.log("Hello World, I am " + student.name);
-
-
+<h1>Turning coffee into code.</h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
