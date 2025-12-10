@@ -2,7 +2,7 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hello%20World&fontSize=80" alt="Header" width="100%"/>
   
-  <h1>Hi there, I'm <a href="https://github.com/YOUR_USERNAME">Your Name</a>! 👋</h1>
+  <h1>Hi there, I'm <a href="https://github.com/YOUR_USERNAME">Arold Reyes</a>! 👋</h1>
   
   <p>
      <b>Frontend Developer</b> • <b>Open Source Enthusiast</b> • <b>Learner</b>
