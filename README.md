@@ -10,11 +10,11 @@
   
   <br/>
 
-  <a href="https://www.facebook.com/reyes.arold.92" target="https://www.facebook.com/reyes.arold.92">
+  <a href="https://www.facebook.com/reyes.arold.92" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
   </a>
   <a href="https://www.youtube.com/@s4db0igaming76" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Youtube"/>
   </a>
   
 </div>
