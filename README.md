@@ -10,7 +10,7 @@
   
   <br/>
 
-  <a href="https://twitter.com/YOUR_TWITTER_HANDLE" target="_blank">
+  <a href="https://www.facebook.com/reyes.arold.92" target="https://www.facebook.com/reyes.arold.92">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
   </a>
   <a href="https://linkedin.com/in/YOUR_LINKEDIN_ID" target="_blank">
