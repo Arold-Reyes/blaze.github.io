@@ -11,7 +11,7 @@
   <br/>
 
   <a href="https://www.facebook.com/reyes.arold.92" target="https://www.facebook.com/reyes.arold.92">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
   </a>
   <a href="https://linkedin.com/in/YOUR_LINKEDIN_ID" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
