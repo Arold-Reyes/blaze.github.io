@@ -5,7 +5,7 @@
   <h1>Hi there, I'm <a href="https://github.com/Arold-Reyes">Arold Reyes</a>! 👋</h1>
   
   <p>
-     <b>I am an IT 3 student currently studying and specializing in web development, eager to expand my knowledge in various technical fields.</b>
+     <b>I am an IT student currently studying and specializing in web development, eager to expand my knowledge in various technical fields.</b>
   </p>
     <p>
      <b>Find me here:</b>
